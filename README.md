@@ -1,4 +1,4 @@
-# QiskitExperiment
+# [QiskitExperiment](https://github.com/bicycle315/QiskitExperiment/blob/master/1.rst)
 
 * [Running Composite Experiments on a Multi Qubit Backend](https://github.com/bicycle315/QiskitExperiment/tree/main/Composite%20Experiments)  
   1. Select the backend i want to characterize.  
@@ -7,8 +7,8 @@
   4. Get the results and images.   
  
 -[This](https://github.com/qiskit-advocate/qamp-fall-21/files/7298443/Qiskit_Template_pdf.pdf) is a reference for my presentation on [qamp](https://github.com/qiskit-advocate/qamp-fall-21/issues/44).  
--Since I have an access to premium ibm backend, I also run these codes on [ibm_cairo](https://github.com/bicycle315/QiskitExperiment/blob/main/Composite%20Experiments/211015_CairoBackend.ipynb) backend to characterize multi qubits.
-
+-Since I have an access to premium ibm backend, I also run these codes on [ibm_cairo](https://github.com/bicycle315/QiskitExperiment/blob/main/Composite%20Experiments/211015_CairoBackend.ipynb) backend to characterize multi qubits.    
+-Follow this [**tutorial**](https://github.com/bicycle315/QiskitExperiment/blob/master/1.rst) (how to guide).
 * [Qubit Frequency](https://github.com/bicycle315/QiskitExperiment/tree/main/Qubit%20Frequency) : can be found by two modules    
   * [Qiskit-Terra](https://github.com/bicycle315/QiskitExperiment/blob/main/Qubit%20Frequency/210928_FindingQbFreq%20.ipynb)  
     -> get the backend qubit's frequency  
