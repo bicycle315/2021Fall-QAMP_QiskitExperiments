@@ -1,4 +1,4 @@
-# 🤩[Qiskit Experiment](https://github.com/bicycle315/QiskitExperiment/blob/master/Tutorial_01.rst)
+# 🤩[Qiskit Experiment](https://github.com/bicycle315/Qiskit-Experiment/blob/master/Tutorial/Verification%20of%20Multi%20Qubit%20Backends%20with%20a%20Composite%20Experiment.rst)
 
 ## [Running Composite Experiments on a Multi Qubit Backend](https://github.com/bicycle315/QiskitExperiment/tree/main/Composite%20Experiments)  
   1. Select the backend i want to characterize.  
@@ -8,7 +8,7 @@
  
 ⭐ [This](https://github.com/qiskit-advocate/qamp-fall-21/files/7298443/Qiskit_Template_pdf.pdf) is a reference for my presentation on [qamp](https://github.com/qiskit-advocate/qamp-fall-21/issues/44).  
  
-🌟 Follow this [**tutorial**](https://github.com/bicycle315/QiskitExperiment/blob/master/1.rst)(how to guide).
+🌟 Follow this [**tutorial**](https://github.com/bicycle315/Qiskit-Experiment/blob/master/Tutorial/Verification%20of%20Multi%20Qubit%20Backends%20with%20a%20Composite%20Experiment.rst)(how to guide).
 
 😃 Since I have an access to the premium IBM backend, I also run these codes on [ibm_cairo](https://github.com/bicycle315/QiskitExperiment/blob/main/Composite%20Experiments/211015_CairoBackend.ipynb) which has 27 qubits to characterize. 
 
