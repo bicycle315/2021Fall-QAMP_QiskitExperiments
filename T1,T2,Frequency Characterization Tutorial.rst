@@ -133,7 +133,7 @@ Now let's see the result data and each of sub-experiment data
     for result in sub_data.analysis_results():
         print(result)
 
-1. Finding qubits with Qubit Spectroscopy
+3. Finding qubits with Qubit Spectroscopy
 =========================================
 We will sweep the frequency around the known qubit frequency to see the resonance 
 at the qubit frequency reported by the backend. 
