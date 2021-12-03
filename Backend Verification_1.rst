@@ -230,6 +230,7 @@ by utilizing Randomized Benchmarking method.
 Import some necessay modules first.
 
 ..jupyter-execute::
+    
  import numpy as np
  from qiskit import QuantumCircuit, transpile, Aer, IBMQ
  from qiskit.tools.jupyter import *
