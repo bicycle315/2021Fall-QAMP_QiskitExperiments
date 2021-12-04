@@ -47,6 +47,13 @@ in finding out the preferred cx-gate direction.
 In addition, knowing maximum number of experiments per job is helpful 
 to construct possible job.
 
+.. jupyter-execute::
+
+ # Get the provider and the backend
+ IBMQ.providers()
+ provider=IBMQ.providers()[#select the provider you want with the index]
+ backend=provider.get_backend('ibmq_lima')
+ 
 ..jupyter-execute::
 
  #get the basic feautures with configuration()
@@ -126,7 +133,7 @@ Finally, let's get every sub-experiment data and figures.
 2. T2* and Ramsey Characterization
 ----------------------------------------
 
-We will continue to use the lima backend for our T2 characterization.
+We will continue to use the ``imbq_lima`` backend for our T2 characterization.
 In this Experiment, we will get T2* and Ramsey frequency as a result data.
 Start by importing required module, and defining sub experiments.
 
